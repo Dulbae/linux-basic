@@ -106,3 +106,10 @@ $find -name "*.txt"
 --
 
 ##belajar git day1
+
+
+============== day3 ===============
+
+Learning git branch
+Learning git merge
+
